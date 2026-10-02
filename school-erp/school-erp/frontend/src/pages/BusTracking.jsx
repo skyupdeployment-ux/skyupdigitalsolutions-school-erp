@@ -17,7 +17,7 @@ const SCHOOL = {
 };
 
 // Your backend API base URL
-const API_BASE = 'http://localhost:5000/api';
+const API_BASE = '/api';
 
 // How often to refresh GPS (milliseconds)
 const REFRESH_INTERVAL = 30000; // 30 seconds
